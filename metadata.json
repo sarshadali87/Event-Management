@@ -1,0 +1,7 @@
+{
+  "name": "EventEase – Smart Event Management & Ticketing Platform",
+  "description": "A modern, responsive, and secure Event Management & Ticketing Web App where users can browse and book events, generate QR tickets, and organizers can manage attendees in real time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
